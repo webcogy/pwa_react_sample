@@ -14,6 +14,4 @@
 
 #### [3] manifest.json 변경
 
-#### [4] src/index.js => serviceWorker.register(); 적용
-
-#### 끝
+#### [4] src/index.js => serviceWorker.register(); 적용중
